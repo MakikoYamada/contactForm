@@ -1,4 +1,4 @@
-import { formSchema } from "@/lib/formSchema";
+import { formSchema } from "../lib/formSchema";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useCallback } from "react";
 import { useForm } from "react-hook-form";
